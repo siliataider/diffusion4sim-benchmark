@@ -1,0 +1,7 @@
+name: diffusion4sim-root
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - root=6.40
+  - pip
